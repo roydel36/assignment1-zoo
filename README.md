@@ -1,3 +1,5 @@
+# Project by Jessica Lisset Flores and Roy Delgado
+
 # zoo-starter-code
 
 This repository is the starter code for Assignment 1 - Zoo.
