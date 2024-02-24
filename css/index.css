@@ -1,5 +1,18 @@
 body {
   font-family: Gill Sans, sans-serif;
-  background-color: salmon;
+  background-color: #99a55a;
   text-align: center;
+  color: #402810;
 }
+
+.link {
+  display: flex;
+  flex-direction: column;
+}
+
+a {
+  color: #402810;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
